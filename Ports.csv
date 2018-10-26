@@ -1,0 +1,7 @@
+Port,Transhipment,Supply,Demand,Capacity
+Europe,No,11000,0,0
+Americas,No,11000,0,0
+Singapore,Yes,0,0,22000
+Malaysia,Yes,0,0,22000
+Thailand,No,0,10000,0
+Vietnam,No,0,12000,0
